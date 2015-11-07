@@ -16,7 +16,7 @@ module.exports = function (grunt) {
           ]
         },
         files: {
-          './dist/bundle.js': ['./src.es6/**/*.js']
+          './dist/bundle.js': ['./src.es6/main.js']
         }
       }
     },

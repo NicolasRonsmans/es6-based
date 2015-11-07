@@ -101,4 +101,4 @@ console.log(male1.getName());
 male1.setName('Nicolas');
 console.log(male1.getName());
 
-},{"./Male.js":2}]},{},[1,2,3]);
+},{"./Male.js":2}]},{},[3]);
